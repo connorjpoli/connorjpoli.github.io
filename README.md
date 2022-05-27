@@ -10,6 +10,9 @@
         a mechanical contractor, this summer. I plan to pursue a career in either the mechanical contracting sector or heavy machinery. 
         Wherever life takes me I hope to be in a position of leadership or management in my later life. I decided to take COMM 165 
         because I understand datas importance in today's world and wish to understand much more about it that I do not know.
+        
+####  Links 
+  **LinkedIn:** <http://linkedin.com/in/connor-poli-477594173>
 
     
 
