@@ -16,6 +16,7 @@
 
     
 
+### First Chart Made using Data Wrapper
 
 
-
+![](https://user-images.githubusercontent.com/106359332/172267307-ac7dcda7-cfda-46bd-bc70-c02aca9b618e.png)
