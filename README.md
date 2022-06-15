@@ -1,6 +1,7 @@
 # connorjpoli.github.io
 
 ## Comm 165 Data Story telling 
+![](https://user-images.githubusercontent.com/106359332/173709375-ce1578f2-4008-49cf-8ce2-89ba36a45a9c.jpg)
 
 ### Connor Poli
 
