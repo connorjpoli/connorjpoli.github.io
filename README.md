@@ -22,3 +22,16 @@
 
 ![](https://user-images.githubusercontent.com/106359332/172267560-05bffcca-f0c9-4228-abd8-6f944fc1af56.png)
 
+### Interactive Data : Tom Wolf Twitter Data 
+
+![](https://user-images.githubusercontent.com/106359332/174513800-d0c7432c-cb13-462d-aa6b-7ffdfc72592a.PNG)
+#### Links to interactive data
+<https://lu.maps.arcgis.com/home/webscene/viewer.html?layers=67cff33b5d8540b5ad8e4c08345d3ac6>
+<https://lu.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=67cff33b5d8540b5ad8e4c08345d3ac6>
+
+###### The data above has been collected from twitter the summer of 2020 revolving around tweets from and 
+###### about Tom Wolf. The interactive maps show where the person sending the tweet was at the time it was sent 
+###### As can be imagined, a lot of them are from PA. The map  can also show the number of followers, the number of 
+###### retweeted a tweet received and other options. The underlying story around this data is that PA does seem to 
+###### have differing views and many people agree with the governor and many disagree. This is showns in that the two
+###### most retweeted tweets have a vastly different sentiment.
