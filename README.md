@@ -43,4 +43,14 @@
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/106359332/175696976-7ac7ef69-bff0-4613-9bb9-a9a670413746.png">
 
+## Roe v Wade Trigger Law Map 
+[RoevWade Trigger law map.pptx](https://github.com/connorjpoli/connorjpoli.github.io/files/8987182/RoevWade.Trigger.law.map.pptx)
+
+https://public.tableau.com/app/profile/connor.poli/viz/RowVWadeTriggerLaws/Story1#1
+
+![image](https://user-images.githubusercontent.com/106359332/175828062-09acd7d5-94be-4c80-915f-6d97e9c2ea91.png)
+
+
+
+
 
