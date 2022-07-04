@@ -19,8 +19,13 @@
 
 ### First Chart Made using Data Wrapper
 
+![](https://user-images.githubusercontent.com/106359332/177072978-c4e306b0-85a6-4e13-9a40-8cd00f4293b3.PNG)
 
-![](https://user-images.githubusercontent.com/106359332/172267560-05bffcca-f0c9-4228-abd8-6f944fc1af56.png)
+##### States are broken down into 4 regions across America. These regions are North East, South, MidWest, and West. 
+##### Theses regions are made up of a differnt number of states which can be seen above, with south being the largest. 
+##### This is important to understand because regions are not simply broken down by number so states in an area but many 
+##### other criteria and aspects. 
+
 
 ### Interactive Data : Tom Wolf Twitter Data 
 
@@ -42,6 +47,8 @@
 [Mammal Dashboard.pptx](https://github.com/connorjpoli/connorjpoli.github.io/files/8981624/Mammal.Dashboard.pptx)
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/106359332/175696976-7ac7ef69-bff0-4613-9bb9-a9a670413746.png">
+
+https://public.tableau.com/app/profile/connor.poli/viz/Book1_16569035270040/Dashboard1?publish=yes
 
 ## Roe v Wade Trigger Law Map 
 [RoevWade Trigger law map.pptx](https://github.com/connorjpoli/connorjpoli.github.io/files/8987182/RoevWade.Trigger.law.map.pptx)
